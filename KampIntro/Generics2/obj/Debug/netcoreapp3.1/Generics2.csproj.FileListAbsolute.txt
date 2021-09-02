@@ -1,0 +1,13 @@
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.exe
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.deps.json
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.runtimeconfig.json
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.dll
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\bin\Debug\netcoreapp3.1\Generics2.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.dll
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Generics2\obj\Debug\netcoreapp3.1\Generics2.genruntimeconfig.cache

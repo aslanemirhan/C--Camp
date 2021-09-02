@@ -1,0 +1,13 @@
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

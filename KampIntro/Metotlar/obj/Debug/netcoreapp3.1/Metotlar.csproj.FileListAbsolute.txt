@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache

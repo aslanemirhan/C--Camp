@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Toshiba\source\repos\KampIntro\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\KampIntro\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
